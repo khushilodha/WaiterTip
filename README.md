@@ -1,2 +1,2 @@
 # WaiterTip
-helps to decide tip given to waiters based on various
+helps to decide tip given to waiters based on various factors
